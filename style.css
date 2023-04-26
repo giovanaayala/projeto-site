@@ -50,7 +50,7 @@ header, main, footer{ /*VOLTAR A PARTI DAQUI*/
 width: 100%; /*largura da capa*/
 height: 300px; /*altura - varia de projeto a projeto*/
 
-background-color: #cf2929;/* apagar depois*/
+background-color: #cf2929f8;/* apagar depois*/
 background-repeat: no-repeat;
 display: flex;/*Os elementos internos flexiveis*/
 flex-direction: column;/*umacima do outro*/
